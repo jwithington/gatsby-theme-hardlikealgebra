@@ -56,6 +56,7 @@ export default {
     h1: {
       color: "text",
       fontSize: 5,
+      fontFamily: "DDCHardware-Regular",
       lineHeight: "heading",
     },
   },
