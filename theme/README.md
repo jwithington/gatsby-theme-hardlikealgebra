@@ -1,3 +1,11 @@
+# My README starts here
+
+Please note: I used a main font that can be used for peresonal projects for free, but not distributed. 
+
+[See here][pirate] for more info on how to avoid being a font pirate. 
+
+That said, the font is awesome, and you can get a copy at a pay-what-you-want price over at [font seed][fontseed]. Put the fonts in src/fonts, and you should be good to go! If not, please submit an issue and I'll give you a hand if possible. 
+
 # Gatsby Theme Jam Example Submission
 
 This is a bare-bones Gatsby theme to showcase how a [Theme Jam](https://themejam.gatsbyjs.org) submission should look.
@@ -49,3 +57,6 @@ To ensure your Theme Jam submission [follows the rules](https://themejam.gatsbyj
 [Netlify]: https://netlify.com
 [GitHub Pages]: https://pages.github.com/
 [npmpublish]: https://docs.npmjs.com/cli/publish
+
+[fontseed]: https://www.fontseed.com/fonts/ddc-hardware
+[pirate]: https://pixelambacht.nl/2017/github-font-piracy/
