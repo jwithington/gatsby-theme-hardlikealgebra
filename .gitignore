@@ -69,3 +69,7 @@ yarn-error.log
 .yarn-integrity
 
 .netlify/
+
+# fonts, because let's not be font pirates
+theme/src/fonts/
+*/fonts/
